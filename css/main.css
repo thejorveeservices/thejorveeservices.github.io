@@ -371,7 +371,9 @@ top: -8px;
   height: auto;
   max-width: 100%;
 }
-
+figure.work-item {
+    height: 237px;
+}
 .overlay {
 	background-color: #e85e5e; 
 	text-align: center;
